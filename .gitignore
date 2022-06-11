@@ -1,0 +1,4 @@
+
+main/target/*
+ds/target/*
+ds/.DS_Store
