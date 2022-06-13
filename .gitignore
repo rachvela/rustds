@@ -2,3 +2,5 @@
 main/target/*
 ds/target/*
 ds/.DS_Store
+ds/Cargo.lock
+main/Cargo.lock
